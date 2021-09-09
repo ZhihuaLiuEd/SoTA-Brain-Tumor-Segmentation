@@ -1,4 +1,4 @@
-# SoTA-Brain-Tumor-Segmentation
+
 # Deep Learning Based Brain Tumor Segmentation: A Survey
 
 This is the official repository of **Deep Learning Based Brain Tumor Segmentation: A Survey**
