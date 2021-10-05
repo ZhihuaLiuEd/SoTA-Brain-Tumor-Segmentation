@@ -7,6 +7,19 @@ The very first draft is open on **[[arxiv](https://arxiv.org/pdf/2007.09479.pdf)
 
 The team is working hard on a detailed revision now. We will release the newest version of the paper and this project repo soon.
 
+**Deep Learning Based Brain Tumor Segmentation: A Survey** <br />
+
+[Zhihua Liu](https://zhihualiued.github.io/), 
+[Long Chen](https://scholar.google.com/citations?user=J_v0xb8AAAAJ&hl=en), 
+[Lei Tong](https://scholar.google.com/citations?user=Fr0l4i4AAAAJ&hl=en), Hao Liu<sup>∗</sup>,
+[Feixiang Zhou](https://scholar.google.com/citations?user=zNNXEGgAAAAJ&hl=zh-CN),
+[Zheheng Jiang](https://www.lancaster.ac.uk/scc/about-us/people/zheheng-jiang),
+[Qianni Zhang](http://eecs.qmul.ac.uk/profiles/zhangqianni.html),
+[Caifeng Shan](https://sites.google.com/site/caifengshan/),
+[Xiangrong Zhang](https://scholar.google.co.uk/citations?user=G6AdRfwAAAAJ&hl=en),
+[Ling Li](https://www.kent.ac.uk/computing/people/3061/li-caroline),
+and [Huiyu Zhou](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou). <br />
+
 ## Paper with souce code links
 | Title                                                        | First Author    | Paper Link  | Code Link  |
 | ------------------------------------------------------------ | --------------- | ------------|------------|
@@ -30,3 +43,8 @@ The team is working hard on a detailed revision now. We will release the newest 
 |Brain tumour segmentation using a triplanar ensemble of U-Nets on MR images|Vaanathi Sundaresan|[Paper](https://link.springer.com/chapter/10.1007/978-3-030-72084-1_31)|[Code](https://git.fmrib.ox.ac.uk/vaanathi/truenet_tumseg)|
 |A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation|Chenggang Lyu|[Paper](https://arxiv.org/pdf/2011.02881.pdf)|[Code](https://github.com/shu-hai/two-stage-VAE-Attention-gate-BraTS2020)|
 |HDC-Net: Hierarchical Decoupled Convolution Network for Brain Tumor Segmentation|Zhengrong Luo|[Paper](https://ieeexplore.ieee.org/document/9103199)|[Code](https://github.com/luozhengrong/HDC-Net)|
+
+[![arXiv](https://img.shields.io/badge/arXiv-2007.09479-red)](https://arxiv.org/pdf/2007.09479.pdf)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/pulls)
