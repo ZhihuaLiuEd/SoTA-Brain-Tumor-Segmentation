@@ -44,6 +44,17 @@ and [Huiyu Zhou](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou
 |A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation|Chenggang Lyu|[Paper](https://arxiv.org/pdf/2011.02881.pdf)|[Code](https://github.com/shu-hai/two-stage-VAE-Attention-gate-BraTS2020)|
 |HDC-Net: Hierarchical Decoupled Convolution Network for Brain Tumor Segmentation|Zhengrong Luo|[Paper](https://ieeexplore.ieee.org/document/9103199)|[Code](https://github.com/luozhengrong/HDC-Net)|
 
+### Citation
+If you find our work useful in your research, please consider citing:
+
+    @article{liu2020deep,
+        title={Deep learning based brain tumor segmentation: a survey},
+        author={Liu, Zhihua and Chen, Long and Tong, Lei and Zhou, Feixiang and Jiang, Zheheng and Zhang, Qianni and Shan, Caifeng and Wang, Yinhai and Zhang, Xiangrong and Li, Ling and Huiyu Zhou},
+        journal={arXiv preprint arXiv:2007.09479},
+        year={2020}
+    }
+
+
 [![arXiv](https://img.shields.io/badge/arXiv-2007.09479-red)](https://arxiv.org/pdf/2007.09479.pdf)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/issues)
