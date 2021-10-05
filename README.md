@@ -54,6 +54,8 @@ If you find our work useful in your research, please consider citing:
         year={2020}
     }
 
+### License
+This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2007.09479-red)](https://arxiv.org/pdf/2007.09479.pdf)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/graphs/commit-activity)
