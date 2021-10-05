@@ -11,7 +11,7 @@ The team is working hard on a detailed revision now. We will release the newest 
 
 [Zhihua Liu](https://zhihualiued.github.io/), 
 [Long Chen](https://scholar.google.com/citations?user=J_v0xb8AAAAJ&hl=en), 
-[Lei Tong](https://scholar.google.com/citations?user=Fr0l4i4AAAAJ&hl=en),
+[Lei Tong](https://LeiTong02.github.io),
 [Feixiang Zhou](https://scholar.google.com/citations?user=zNNXEGgAAAAJ&hl=zh-CN),
 [Zheheng Jiang](https://www.lancaster.ac.uk/scc/about-us/people/zheheng-jiang),
 [Qianni Zhang](http://eecs.qmul.ac.uk/profiles/zhangqianni.html),
