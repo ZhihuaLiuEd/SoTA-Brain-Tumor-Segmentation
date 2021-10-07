@@ -63,6 +63,8 @@ and [Huiyu Zhou](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou
 |Brain tumour segmentation using a triplanar ensemble of U-Nets on MR images|Vaanathi Sundaresan|[Paper](https://link.springer.com/chapter/10.1007/978-3-030-72084-1_31)|[Code](https://git.fmrib.ox.ac.uk/vaanathi/truenet_tumseg)|
 |A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation|Chenggang Lyu|[Paper](https://arxiv.org/pdf/2011.02881.pdf)|[Code](https://github.com/shu-hai/two-stage-VAE-Attention-gate-BraTS2020)|
 |HDC-Net: Hierarchical Decoupled Convolution Network for Brain Tumor Segmentation|Zhengrong Luo|[Paper](https://ieeexplore.ieee.org/document/9103199)|[Code](https://github.com/luozhengrong/HDC-Net)|
+|3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI|Chen Chen|[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_21)|[Code](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)|
+|TransBTS: Multimodal Brain Tumor Segmentation Using Transformer|Wenxuan Wang|[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-87193-2_11)|[Code](https://github.com/Wenxuan-1119/TransBTS)|
 
 ### Citation
 If you find our work useful in your research, please consider citing:
