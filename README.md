@@ -1,24 +1,55 @@
 
+[![arXiv](https://img.shields.io/badge/arXiv-2007.09479-red)](https://arxiv.org/pdf/2007.09479.pdf)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/pulls)
+
 # Deep Learning Based Brain Tumor Segmentation: A Survey
 
 This is the official repository of **Deep Learning Based Brain Tumor Segmentation: A Survey**.
 
 The very first draft is open on **[[arxiv](https://arxiv.org/pdf/2007.09479.pdf)]**.<br />
 
-The team is working hard on a detailed revision now. We will release the newest version of the paper and this project repo soon.
-
-**Deep Learning Based Brain Tumor Segmentation: A Survey** <br />
-
 [Zhihua Liu](https://zhihualiued.github.io/), 
-[Long Chen](https://scholar.google.com/citations?user=J_v0xb8AAAAJ&hl=en), 
 [Lei Tong](https://LeiTong02.github.io),
-[Feixiang Zhou](https://scholar.google.com/citations?user=zNNXEGgAAAAJ&hl=zh-CN),
 [Zheheng Jiang](https://www.lancaster.ac.uk/scc/about-us/people/zheheng-jiang),
+[Long Chen](https://scholar.google.com/citations?user=J_v0xb8AAAAJ&hl=en), 
+[Feixiang Zhou](https://scholar.google.com/citations?user=zNNXEGgAAAAJ&hl=zh-CN),
 [Qianni Zhang](http://eecs.qmul.ac.uk/profiles/zhangqianni.html),
-[Caifeng Shan](https://sites.google.com/site/caifengshan/),
 [Xiangrong Zhang](https://scholar.google.co.uk/citations?user=G6AdRfwAAAAJ&hl=en),
-[Ling Li](https://www.kent.ac.uk/computing/people/3061/li-caroline),
+[Yaochu Jin](https://scholar.google.co.uk/citations?user=B5WAkz4AAAAJ&hl=en),
 and [Huiyu Zhou](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou). <br />
+
+## Introduction
+Brain tumor segmentation is one of the most challenging problems in medical image analysis. The goal of brain tumor segmentation is to generate accurate delineation of brain tumor regions. In recent years, deep learning methods have shown promising performance in solving various computer vision problems, such as image classification, object detection and semantic segmentation. A number of deep learning based methods have been applied to brain tumor segmentation and achieved promising results. Considering the remarkable breakthroughs made by state-of-the-art technologies, we use this survey to provide a comprehensive study of recently developed deep learning based brain tumor segmentation techniques. More than 100 scientific papers are selected and discussed in this survey, extensively covering technical aspects such as network architecture design, segmentation under imbalanced conditions, and multi-modality processes. We also provide insightful discussions for future development directions.
+
+Please feel free to <a href="mailto:zl208@leicester.ac.uk">make contact</a> or [open issues](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/issues/new) if you want to add results, discuss or give suggestions.
+
+## Taxonomy
+
+<p align="center"> <img src="images/Taxonomy.png" width="95%"> </p>
+
+### (A) Designing Effective Segmentation Networks
+
+#### Result Comparison
+
+<p align="center"> <img src="images/Designing Effective Segmentation Networks.png" width="95%"> </p>
+
+### (B) Segmentation under Imbalanced Condition
+
+#### Result Comparison
+
+<p align="center"> <img src="images/Segmentation under Imbalanced Condition.png" width="95%"> </p>
+
+### (C) Utilising Multi Modality Information
+
+#### Result Comparison
+
+<p align="center"> <img src="images/Utilising Multi Modality Information.png" width="70%"> </p>
+
+## Progress in Past Decades
+
+<p align="center"> <img src="images/progresssummary.png" width="95%"> </p>
 
 ## Related Survey Papers
 
@@ -63,6 +94,10 @@ and [Huiyu Zhou](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou
 |Brain tumour segmentation using a triplanar ensemble of U-Nets on MR images|Vaanathi Sundaresan|[Paper](https://link.springer.com/chapter/10.1007/978-3-030-72084-1_31)|[Code](https://git.fmrib.ox.ac.uk/vaanathi/truenet_tumseg)|
 |A Two-Stage Cascade Model with Variational Autoencoders and Attention Gates for MRI Brain Tumor Segmentation|Chenggang Lyu|[Paper](https://arxiv.org/pdf/2011.02881.pdf)|[Code](https://github.com/shu-hai/two-stage-VAE-Attention-gate-BraTS2020)|
 |HDC-Net: Hierarchical Decoupled Convolution Network for Brain Tumor Segmentation|Zhengrong Luo|[Paper](https://ieeexplore.ieee.org/document/9103199)|[Code](https://github.com/luozhengrong/HDC-Net)|
+|3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI|Chen Chen|[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_21)|[Code](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)|
+|TransBTS: Multimodal Brain Tumor Segmentation Using Transformer|Wenxuan Wang|[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-87193-2_11)|[Code](https://github.com/Wenxuan-1119/TransBTS)|
+
+
 
 ### Citation
 If you find our work useful in your research, please consider citing:
@@ -74,10 +109,8 @@ If you find our work useful in your research, please consider citing:
         year={2020}
     }
 
+### Acknowledgement
+The authors thank [Prof. Guotai Wang](https://faculty.uestc.edu.cn/wangguotai), [Prof. Dingwen Zhang](https://zdw-nwpu.github.io/dingwenz.github.com/) and [Dr. Tongxue Zhou](https://scholar.google.fr/citations?user=mnnaVR8AAAAJ&hl=zh-CN) for their detailed feedbacks and suggestions.
+
 ### License
 This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
-
-[![arXiv](https://img.shields.io/badge/arXiv-2007.09479-red)](https://arxiv.org/pdf/2007.09479.pdf)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ZhihuaLiuEd/SoTA-Brain-Tumor-Segmentation/pulls)
